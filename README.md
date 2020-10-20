@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Athira</h1>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=athirasyafiqah&repo=github-readme-stats)](https://github.com/athirasyafiqah/github-readme-stats)
+![athirasyafiqah's github stats](https://github-readme-stats.vercel.app/api?username=athirasyafiqah&count_private=true&show_icons=true&&theme=dracula&include_all_commits=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirasyafiqah)](https://github.com/athirasyafiqah/github-readme-stats)
 

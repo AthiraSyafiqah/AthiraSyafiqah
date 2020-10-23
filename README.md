@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Athira</h3>
+<h3 align="center">Hi there, I'm Athira :purple_heart:</h3>
 
 
 

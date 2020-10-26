@@ -1,9 +1,6 @@
 <h3 align="center">Hi there, I'm Athira :purple_heart:</h3>
 
 
-
-![athirasyafiqah's github stats](https://github-readme-stats.vercel.app/api?username=athirasyafiqah&count_private=true&show_icons=true&&theme=graywhite&include_all_commits=true)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirasyafiqah&theme=graywhite&layout=compact)
 
 
